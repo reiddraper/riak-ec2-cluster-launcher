@@ -1,4 +1,11 @@
+__NOTE: this uses a woefully out of date Riak installation,
+and is just sticking around on github for posterirty at the moment__
+
+___
+
+
 # Riak EC2 Cluster Launcher
+
 
 ## Dependencies
 `launch.py` is a simple Python script to launch an `N`-node Riak cluster. The requirements can be installed
